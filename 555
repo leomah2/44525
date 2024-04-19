@@ -1,0 +1,7 @@
+sudo apt install nano 
+
+sudo apt install screen 
+ ____
+rm -rf /root/.avail/data 
+ _
+screen -S node 
